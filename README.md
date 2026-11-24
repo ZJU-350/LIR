@@ -1,2 +1,2 @@
 # LIR
-Low-rank inverse modeling of microbial community assembly for reconstructing wetland interaction networks
+We present the latent interaction reconstruction (LIR) framework, a mechanism-informed deep-learning approach for inferring environment-specific microbial interactions from cross-sectional sequencing data.
